@@ -16,6 +16,6 @@ O programa desempenha o seguinte papel:
 
 # Como rodar o código?
   ```bash
-  # Inicie o programa com o seguinte comando:
+  # Inicie o programa com o seguinte comando quando já estiver dentro da pasta (use o comando "cd"):
   python main.py
   ```
