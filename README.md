@@ -15,5 +15,7 @@ O programa desempenha o seguinte papel:
   - Uso de If, Elif, e Else
 
 # Como rodar o código?
-  '''bash
-  Inicie o programa com o seguinte código:
+  ```bash
+  # Inicie o programa com o seguinte comando:
+  python main.py
+  ```
